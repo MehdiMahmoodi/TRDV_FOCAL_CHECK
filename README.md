@@ -7,18 +7,18 @@ The most chalenging part in Mikrotron focal check.
 
 ## Mikrotron Software
 
-### Focal check software for TRDV Mikrotron camera, is working based on the logic:
+**Focal check software for TRDV Mikrotron camera, is working based on the logic**
 
 - All images needs to be contained the 3-beam laser
 	
-	- The software will create the mask for each laser beam
+- The software will create the mask for each laser beam
 	
-	- All 3 beams will copy to the new image
+- All 3 beams will copy to the new image
 	
-	- the thickness of each beam will be calculated
+- the thickness of each beam will be calculated
 	
-	- The trend of laser beam thickness change will be visulize 
+- The trend of laser beam thickness change will be visulize 
 	
-	- The trend of the laser will be saved for each beam in pdf file as the out put of the software
+- The trend of the laser will be saved for each beam in pdf file as the out put of the software
 	
 - You can find the code [Here](https://github.com/MehdiMahmoodi/TRDV_Focal_check/blob/master/TRDV-Focal_check%20_my_pattern1.py)
