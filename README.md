@@ -21,4 +21,4 @@ The most chalenging part in Mikrotron focal check.
 	
 - The trend of the laser will be saved for each beam in pdf file as the out put of the software
 	
-- You can find the code [Here](https://github.com/MehdiMahmoodi/TRDV_Focal_check/blob/master/TRDV-Focal_check%20_my_pattern1.py)
+- You can find the code [Here: Original code for TRDV Mikrotron Focal Check](https://github.com/MehdiMahmoodi/TRDV_Focal_check/blob/master/TRDV-Focal_check%20_my_pattern1.py)
