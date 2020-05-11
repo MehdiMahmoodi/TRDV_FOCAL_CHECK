@@ -7,7 +7,7 @@ The most chalenging part in Mikrotron focal check.
 
 ## Mikrotron Software
 
-** Focal check software for TRDV Mikrotron camera, is working based on the logic:**
+**Focal check software for TRDV Mikrotron camera, is working based on the logic:**
 
 	- All images needs to be contained the 3-beam laser
 	
