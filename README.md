@@ -6,7 +6,7 @@ This repo is containg the QC software for all camera which included in scanner b
 The most chalenging part in Mikrotron focal check.
 
 ##Mikrotron Software
-** Focal check software for TRDV Mikrotron camera, is working based on the logic:
+** Focal check software for TRDV Mikrotron camera, is working based on the logic:**
 	- All images needs to be contained the 3-beam laser
 	- The software will create the mask for each laser beam,
 	- All 3 beams will copy to the new image
