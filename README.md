@@ -13,4 +13,4 @@ The most chalenging part in Mikrotron focal check.
 	- the thickness of each beam will be calculated
 	- The trend of laser beam thickness change will be visulize 
 	- The trend of the laser will be saved for each beam in pdf file as the out put of the software
-	- [Here is the original code](https://github.com/MehdiMahmoodi/TRDV_Focal_check/blob/master/TRDV-Focal_check%20_my_pattern1.py)
+	- You can find the code [Here](https://github.com/MehdiMahmoodi/TRDV_Focal_check/blob/master/TRDV-Focal_check%20_my_pattern1.py)
